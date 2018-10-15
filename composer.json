@@ -1,7 +1,10 @@
 {
     "name": "guopuke/time-helper",
     "description": "A Universal processing time tool.",
-    "type": "composer-plugin",
+    "keywords": [
+        "time"
+    ],
+    "type": "library",
     "require": {
         "php": ">=7.0"
     },
