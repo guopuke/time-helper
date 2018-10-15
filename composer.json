@@ -1,0 +1,21 @@
+{
+    "name": "guopuke/time-helper",
+    "description": "A Universal processing time tool.",
+    "type": "composer-plugin",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paco",
+            "email": "guopuke@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "TimeHelper\\": "src/"
+        }
+    }
+}
