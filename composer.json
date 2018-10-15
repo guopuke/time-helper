@@ -1,12 +1,14 @@
 {
     "name": "guopuke/time-helper",
     "description": "A Universal processing time tool.",
+    "type": "library",
     "keywords": [
         "time"
     ],
-    "type": "library",
     "require": {
         "php": ">=7.0"
+    },
+    "require-dev": {
     },
     "license": "MIT",
     "authors": [
@@ -19,6 +21,11 @@
     "autoload": {
         "psr-4": {
             "TimeHelper\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "TimeHelper\\Tests\\": "tests/"
         }
     }
 }

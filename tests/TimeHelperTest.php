@@ -8,7 +8,7 @@ namespace TimeHelper\Tests {
 
     use TimeHelper\TimeHelper;
 
-    class TimeHelperTest extends \PHPUnit_Framework_TestCase
+    class TimeHelperTest
     {
         function testNow()
         {
