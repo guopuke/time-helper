@@ -1,5 +1,5 @@
 {
-    "name": "guopuke/time-helper",
+    "name": "qingeek/time-helper",
     "description": "A Universal processing time tool.",
     "type": "library",
     "keywords": [
@@ -14,7 +14,7 @@
     "authors": [
         {
             "name": "Paco",
-            "email": "guopuke@gmail.com"
+            "email": "qingeek@qq.com"
         }
     ],
     "minimum-stability": "dev",
